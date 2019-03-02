@@ -1,0 +1,8 @@
+name: ZSudo
+author: iMPDevMC
+main: gq.devmc.zsudo.Main15
+version: 1
+commands:
+   sudo:
+      description: laaazy af again
+      usage: /<command> <player> <input>
